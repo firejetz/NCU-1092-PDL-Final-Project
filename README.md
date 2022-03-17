@@ -7,8 +7,8 @@
 
 ## Table of Contents
 <!--ts-->
-   0. [Environment](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Environment)
-   1. [Data](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Data)
+   1. [Environment](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Environment)
+   2. [Data](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Data)
  
 <!--te-->
 
