@@ -9,7 +9,6 @@
 <!--ts-->
    1. [Environment](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Environment)
    2. [Data](https://github.com/firejetz/NCU-1092-PDL-Final-Project/blob/main/README.md#Data)
- 
 <!--te-->
 
 ## Environment
